@@ -1,0 +1,27 @@
+{
+  "name": "http-message-parser-ts",
+  "version": "0.0.1",
+  "description": "A simple HTTP message parser in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jasmine-ts \"spec/**/*.spec.ts\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colenet-gmbh/node-http-message-parser-ts.git"
+  },
+  "author": "Ralf Waldvogel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colenet-gmbh/node-http-message-parser-ts/issues"
+  },
+  "homepage": "https://github.com/colenet-gmbh/node-http-message-parser-ts#readme",
+  "devDependencies": {
+    "@types/jasmine": "^2.8.3",
+    "@types/node": "^8.5.5",
+    "jasmine-ts": "^0.2.1",
+    "typescript": "^2.6.2",
+    "typings": "^2.1.1"
+  }
+}
