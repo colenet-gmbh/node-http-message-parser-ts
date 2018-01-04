@@ -1,5 +1,5 @@
 import {HttpMessageParser} from "./http-message-parser";
 
-exports = {
+module.exports = {
     HttpMessageParser: HttpMessageParser
 }
