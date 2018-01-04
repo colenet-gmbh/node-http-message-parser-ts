@@ -2,7 +2,8 @@
   "name": "http-message-parser-ts",
   "version": "0.0.1",
   "description": "A simple HTTP message parser in Typescript",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types" : "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "jasmine-ts \"spec/**/*.spec.ts\""
