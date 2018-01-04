@@ -1,6 +1,6 @@
 {
   "name": "http-message-parser-ts",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "A simple HTTP message parser in Typescript",
   "main": "dist/index.js",
   "types" : "dist/index.d.ts",
